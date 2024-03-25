@@ -1,2 +1,2 @@
 # Grocart
-A fuuly responsive full stack development using Python,HTML,CSS,Javascript and Mysql
+A fully responsive full stack development website using Python,HTML,CSS,Javascript and Mysql
